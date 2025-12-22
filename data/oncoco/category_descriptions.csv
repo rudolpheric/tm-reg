@@ -1,0 +1,62 @@
+Kategorie,Beschreibung
+B-A-*-*-UB-* | Unpassende Bemerkung,"Unpassende Bemerkung, Äußerung, die als unangemessen, unprofessionell oder respektlos empfunden werden kann."
+B-FA-*-*-*-* | Gesprächseröffnung,Der* Die Berater*in eröffnet das Gespräch mit einer Anrede
+B-Mod-*-*-*-* | Moderation,Der*Die Berater*in moderiert das Gespräch
+B-FZ-*-*-APR-* | Angebot zur Nutzung der professionellen Ressourcen desder Beraterin,"Angebot zur Nutzung der professionellen Ressourcen desder Beraterin, Der*Die Beraterin bietet weitere professionelle Unterstützung oder Folgekontakte an."
+B-FZ-*-*-V-* | Verabschiedung,"Der*Die Beraterin beendet das Gespräch mit einer abschließenden Grußformel oder höflichen Verabschiedung."
+B-WF-ABZ-*-FZW-* | Nachfrage nach Zielsetzung/Wünschen,alle Fragen die den Gemütszustand und die Gefühle betrifft
+B-WF-ABZ-*-IDZ-* | Definition der Zielsetzung der Beratung,"Der Berater formuliert die Zielsetzung des Beratungsprozesses klar und deutlich, auch in Anbgrenzung zu Zielsetzungen, die in diesem Format nicht realisierbar sind"
+B-WF-AK-RE-FEL-* | Nachfrage nach emotionaler Lage,alle Fragen die den Gemütszustand und die Gefühle betrifft
+B-WF-AK-RE-FKR-* | Komplexe Reflexion,"Der*Die Beraterin reflektiert umfassend über das Gesagte desder Klientin und stellt Zusammenhänge oder Muster her."
+B-WF-AK-RS-ERx-* | Einfache Reflexion,"Der*die Berater*in fasst Geschriebenes des*der Klient*in zusammen, paraphrasiert, wiederholt, bringt auf den Punkt"
+B-WF-AK-RS-FA-* | Nachfrage nach Anliegen,"Der*Die Beraterin erkundigt sich konkret nach dem Anliegen oder dem Grund der Kontaktaufnahme."
+B-WF-AK-RS-FBL-* | Nachfrage nach bisherigen Lösungsversuchen,"Der*Die Beraterin fragt nach, welche Maßnahmen oder Strategien bisher ausprobiert wurden."
+B-WF-AK-RS-FLL-SB | soziale Beziehungen, "Nachfrage nach dem sozialen Umfeld und den relevanten Bezugspersonen des*der Klientin."
+B-WF-AK-RS-FPD-* | Nachfrage nach persönlichen Daten,"Erkundigung nach personenbezogenen Informationen (z. B. Alter, Lebenssituation)."
+"B-WF-AK-RS-FPP-* | punktuelle, präzise Nachfrage","allgemeine Nachfragen, die NICHT emotionalen Hintergrund haben, Stichwort: Informationszugewinn, Sachverhalte betreffend (geschlossene Fragen! worauf nur mit Ja/Nein geantwortet werden kann)"
+B-WF-AK-RS-FVE-* | Nachfrage nach Veränderung und Entwicklung,DerDie Beraterin fragt nach bisherigen oder geplanten Veränderungen im Verhalten oder in der Situation.
+B-WF-HP-*-IB-* | Beruhigung,"Beschwichtigende Worte, die mögliche Ängste bzw. Bedenken nehmen sollen Meist gefolgt von fachlichen bzw. sachlichen Erklärungen"
+"B-WF-HP-*-IFHE-* | Fachliche, förmliche, institutionelle Handlungsempfehlung","Klare Ansagen, die eine bestimmte Handlung nahelegen Fachliche Empfehlung aus der Rolle des*der Berater*in"
+B-WF-HP-*-IFSE-* | Fachliche bzw. sachliche Erklärungen,"Fachliche bzw. sachliche Informationen, die einen Sachverhalt erklären sollen"
+B-WF-HP-*-IW-* | Warnung,"DerDie Beraterin weist deutlich auf Risiken, Gefahren oder negative Konsequenzen hin."
+B-WF-HP-*-IZ-* | Zukunftsprognose,"Berater*in nennt mögliche Entwicklungen der Situation, die aus seiner Sicht in der Zukunft denkbar sind"
+"B-WF-HP-*-PS-IBD | Bewertung, Deutung","Informationen mit persönlicher Einschätzung Formulierungen, die auf die persönliche Sichtweise des*der Berater*in schließen lassen"
+B-WF-HP-*-PS-IR | Ratschlag,"Handlungsempfehlung, die auf einer persönlichen Meinung des*der Berater*in basiert Es kann sich um einen fachlich korrekten Inhalt handeln, der als persönlicher Ratschlag formuliert wurde "
+B-WF-HP-*-PS-IW | Wunsch,Der*die Berater*in formuliert einen Wunsch für den*die Klient*in
+B-WF-Mot-*-FVW-* | Hervorrufen von Aussagen zum Veränderungswunsch (MI),"Der Klient wird aufgefordert, einen Änderungswunsch für sein Verhalten zu artikulieren"
+B-WF-Mot-*-IAV-* | Artikulation der wahrgenommenen Fähigkeit zur Veränderung beim Klienten (MI),"Der Berater teilt dem Klient*in mit, dass er sich sicher ist, dass dieser sich und/oder sein Verhalten verändern kann."
+B-WF-Mot-*-IDW-* | Dank und Wertschätzung an Klientin,Der*die Berater*in drückt Wertschätzung für die Teilnahme am Forum und Dank gegenüber Klient*innen aus
+"B-WF-Mot-*-IEM-* | Ermutigung, Motivation desder Klientin","Klient*in wird in Bezug auf zukünftige Handlungen bestärkt Zukunftsbezogen"
+B-WF-RA-*-ARP-* | Anregung zur Ressourcenaktivierung auf professioneller Ebene,"Der Berater rät dem Klienten, sich bei professionellen oder semiprofessionellen Stellen Unterstützung zur Problembewältigung zu holen"
+B-WF-RA-*-FP-* | Nachfrage nach Problemstellung,"DerDie Beraterin bittet um nähere Beschreibung des Problems."
+B-WF-RA-*-FU-* | Frage nach möglichen Unterstützungsressourcen,"Der Berater erkundigt sich beim Klienten, ob er in seinem Umfeld Ressourcen hat, die ihn bei der Problemlösung unterstützen. Zumeist sind dies Personen, bei diesem Code sind aber auch andere Ressourcen denkbar"
+B-WF-RA-*-N-ARFa | Anregung zur Ressourcenaktivierung auf Familienebene,"Der Berater rät dem Klienten, sich bei einem Familenangerhörigen Unterstützung zur Problembewältigung zu holen"
+B-WF-RA-*-N-ARFr | Anregung zur Ressourcenaktivierung auf Freundesebene,"Der Berater rät dem Klienten, sich bei Freunden Unterstützung zur Problembewältigung zu holen"
+K-A-*-*-A-* | Andere Aussagen,"Abschnitte, die keiner anderen Kategorie zuordbar sind"
+K-A-*-*-UB-* | Unpassende Bemerkung,"Aussage, die inhaltlich unangebracht ist Dies kann dadurch begründet sein, dass sich der*die Klient*in nicht ernst genommen oder unprofessionell behandelt fühlt"
+K-FA-*-*-*-* | Anrede,"Allgemeine Begrüßung oder Ansprache der beratenden Person."
+K-E-*-*-ECM-*| Mitgefühl mit anderen (EC),"Der Klient drückt deutlich Mitgefühl mit einer anderen Person aus. Dabei kommt es darauf an, dass er explizit beschreibt, dass die Situation der Person bei ihm eine Emotion auslöst"
+K-E-*-*-ECS-*| Sorge um andere Person (EC),"Der Klient drückt deutlich Sorge um eine andere Person aus seinem Umfeld aus. Mit Sorge ist gemeint, dass er das Bedürfnis hat, die Person schützen zu müssen oder mehr für sie zu tun, als im Rahmen dieses Settings möglich ist. Die Verwendung des Wortes ""Sorge"" kann hier ein Hinweis sein, muss es aber nicht"
+K-E-*-*-PT-*| Empathie für Dritte bzw. bezogen auf die vorliegende Situation (PT),"Situationsbetrachtung und Hineinversetzen in Dritte*, Mitteilen von dem, was in Bezug auf Dritte* oder die spezifische Situation emotional verstanden wurde, Entspricht ""Perspektive Taking"" in Theorie"
+K-FZ-*-*-F-* | Formales zum Abschluss einer Beratung,"Der Klient beendet die Beratung mit formalen Floskeln (z. B. Dank, Gruß)."
+K-FZ-*-*-NPR-* | (Weitere) Nutzung professioneller Ressourcen der beratenden Person,Der Klient stimmt einem weiterführenden Beratungsangebot zu
+K-WF-ABZ-*-Erw-* | Erweiterung des Auftrags,"Der Klient fügt der vorher definierten Zielsetzung weitere Aspekte hinzu. Das kann sowohl in der initialen Auftragsklärung erfolgen, als auch zu einem späteren Zeitpunk"
+K-WF-ABZ-*-Ziel-* | Zielsetzung des Auftrags,"Der Klient formuliert die Zielsetzung des Beratungsprozesses klar und deutlich, auch in Anbgrenzung zu Zielsetzungen, die in diesem Format nicht realisierbar sind. Eine Zustimmung zu einem Vorschlag zur Zielsetzung, die vom Berater kam gilt hier ebenfalls"
+K-WF-AKP-*-Abl-* | Ablehnung,Der Klient lehnt eine Entscheidungsfrage ab
+K-WF-AKP-*-EG-* | Eigene Gefühlsdarstellung,"Der Klient berichtet, wie es ihm aktuell geht "
+K-WF-AKP-*-Nachf-* | Allgemeine Nachfrage,"Klient stellt Nachfragen, um Handlungsempfehlungen, Deutungen/Bewertungen etc. besser zu verstehen. "
+K-WF-AKP-*-PDar-* | Problemdarstellung,"Der Klient beschreibt das Problem, wegen dem er Rat sucht allgemein. Hier kann die gesamte Problembeschreibung codiert werden"
+K-WF-AKP-*-PDef-* | Problemdefinition,"Der Klient definiert poinitiert, was aus seiner Sicht das Problem ist, wegen dem er sich meldet. Das kann ein Fazit aus der Problembeschreibung sein oder auch der Ausschluss bestimmter Fragen"
+K-WF-AKP-*-PPers-* | Preisgeben persönlicher Daten,"Der Klient stellt sich und seine persönlichen Daten (Alter, Name, etc.) vor"
+K-WF-AKP-*-RBL-* | Rückmeldung zu bisherigen Lösungsversuchen,"Der Klient erläutert Lösungsversuche, die er bisher vorgenommen hat, um mit dem Problem umgehen zu können."
+K-WF-AKP-*-Zust-* | Zustimmung,Der Klient stimmt einer Entscheidungsfrage zu
+K-WF-HP-*-BerUH-* | Bericht über Umsetzung von Handlungsempfehlung,"Der Klient stellt dar, wie er versucht hat, eine Handlungsempfehlung umzusetzen. Die Bewertung wird über die oberen Kategorien umgesetzt"
+K-WF-HP-*-Erf-* | Endgültiger Erfolg,"Der Klient definiert sein Problem als erledigt, bzw. gelöst und beendet die Beratung positiv"
+K-WF-HP-*-MErf-* | Endgültiger Misserfolg,"Der Klient beendet die Beratung mit dem Hinweis, dass sein Problem nicht gelöst ist"
+K-WF-HP-*-NegRH-* | Negative Rückmeldung zu spezifischer Handlungsempfehlung,"Der Klient nimmt negativ zu einer spezifischen Handlungsempfehlung Stellung. Das bedeutet, er verwirft den Rat und seine Umsetzung."
+K-WF-HP-*-PosR-* | Allgemeine positive Rückmeldung,"Der Klient reagiert positiv auf das Gesagte/geschriebene der/des Berater*in, mit Ausnahme der Handlungsempfehlungen. "
+K-WF-HP-*-PosRH-* | Positive Rückmeldung zu spezifischer Handlungsempfehlung,"Der Klient nimmt positiv zu einer spezifischen Handlungsempfehlung Stellung. Das bedeutet, er zieht die Umsetzung dieser Empfehlung ernsthaft in Betracht"
+K-WF-Mot-*-GV-* | Artikulation von Gründen für eine Veränderung beim Klienten,"Der Klient nennt Gründen, warum er sich oder sein Verhalten ändern sollte"
+K-WF-Mot-*-VW-* | Aussagen zum Veränderungswunsch (MI),Der Klientartikuliert einen Änderungswunsch 
+K-WF-RA-*-RF-* | In Betracht ziehen von Ressourcenaktivierung auf Freundes- und Familienebene,"Der Klient zieht in Betracht, sich bei Freunden Unterstützung zur Problembewältigung zu holen"
+K-WF-RA-*-RP-* | In Betracht ziehen von Ressourcenaktivierung auf professioneller Ebene,"Der Klient zieht in Betracht, sich bei professionellen oder semiprofessionellen Stellen Unterstützung zur Problembewältigung zu holen"
