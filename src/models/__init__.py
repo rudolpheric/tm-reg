@@ -2,7 +2,7 @@
 
 from .bert_models import (
     NextCategoryPredictor,
-    HierarchyAwarePredictorWithCategoryHistory,
+    CategoryHistoryPredictor,
     SimpleRNNPredictor,
     TanakaPredictor,
     TransitionMatrixLoss,
@@ -14,7 +14,7 @@ from .bert_models import (
 
 __all__ = [
     "NextCategoryPredictor",
-    "HierarchyAwarePredictorWithCategoryHistory",
+    "CategoryHistoryPredictor",
     "SimpleRNNPredictor",
     "TanakaPredictor",
     "TransitionMatrixLoss",

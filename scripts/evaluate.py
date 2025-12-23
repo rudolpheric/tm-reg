@@ -36,7 +36,7 @@ sys.path.insert(0, str(PROJECT_ROOT))
 
 from src.models.bert_models import (
     NextCategoryPredictor,
-    HierarchyAwarePredictorWithCategoryHistory,
+    CategoryHistoryPredictor,
 )
 from src.data.datasets import OnCoCoDataset
 from src.training.metrics import (
@@ -125,10 +125,10 @@ def load_model(checkpoint_path: str, model_type: str, encoder: str,
             pretrained_model=encoder_path
         )
     elif model_type == "history":
-        model = HierarchyAwarePredictorWithCategoryHistory(
+        model = CategoryHistoryPredictor(
             num_categories=num_categories,
             pretrained_model=encoder_path,
-            max_context_utterances=context_length
+            max_history_length=context_length
         )
     else:
         raise ValueError(f"Unknown model type: {model_type}")

@@ -42,7 +42,7 @@ sys.path.insert(0, str(PROJECT_ROOT))
 
 from src.models.bert_models import (
     NextCategoryPredictor,
-    HierarchyAwarePredictorWithCategoryHistory,
+    CategoryHistoryPredictor,
     CombinedLoss,
 )
 from src.data.datasets import OnCoCoDataset
@@ -144,10 +144,10 @@ def create_model(model_type: str, encoder: str, num_categories: int,
             pretrained_model=encoder_path
         )
     elif model_type == "history":
-        model = HierarchyAwarePredictorWithCategoryHistory(
+        model = CategoryHistoryPredictor(
             num_categories=num_categories,
             pretrained_model=encoder_path,
-            max_context_utterances=max_context_utterances
+            max_history_length=max_context_utterances
         )
     else:
         raise ValueError(f"Unknown model type: {model_type}")
