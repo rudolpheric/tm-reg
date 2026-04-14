@@ -51,3 +51,8 @@ wandb/
 # Temporary files
 *.tmp
 *.temp
+
+# Dataset / large data files (excluded from submission)
+data/oncoco/cv_splits/
+data/oncoco/conversations.json
+data/oncoco/OnCoCo_Categories_DE_EN.csv
