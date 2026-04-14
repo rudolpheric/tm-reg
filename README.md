@@ -1,3 +1,5 @@
+**Note: The dataset (conversations and CV splits) will be published at a later point.**
+
 # Transition-Matrix Regularization for Next Dialogue Act Prediction
 
 Anonymous submission repository containing code and data to reproduce the experimental results.
